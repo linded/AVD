@@ -1,6 +1,6 @@
 # Variables
-$SubscriptionName = "a70301c3-f1c3-4a37-9a4d-660ccefa6793"               
-$resourceGroupName = "rg-liquit-prod-we-01"  
+$SubscriptionName = "<my-subscription-name>"               
+$resourceGroupName = "<my-resource-group-name>"
 $storageType = "Standard_LRS" 
 $maxRetries = 2                       
 $retryDelaySeconds = 50         
